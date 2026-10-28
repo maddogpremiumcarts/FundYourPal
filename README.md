@@ -10,6 +10,7 @@ Audience research, voice guides and creative for [FundYourPal](https://www.fundy
 | [docs/02-icp-and-voice-of-customer.md](docs/02-icp-and-voice-of-customer.md) | Ideal client profile ("Team Mom Tara"), how they search, what they say, vocabulary, pricing language and a swipe file |
 | [docs/03-coach-ben-interview-and-voice-guide.md](docs/03-coach-ben-interview-and-voice-guide.md) | Persona interview with Coach Ben, key insights, and the brand voice and style guide |
 | [docs/04-social-media-playbook.md](docs/04-social-media-playbook.md) | "The Fundraising Coach" voice, five content topics with quote banks, word bank, sample posts and a weekly rhythm |
+| [lead-magnet/no-sell-season-fundraiser-checklist.md](lead-magnet/no-sell-season-fundraiser-checklist.md) | The free 8-step checklist behind the opt-in landing page and the partner email series |
 | [video/cookie-dough-reel-script.md](video/cookie-dough-reel-script.md) | 30-second Reel/TikTok script, caption and cover text |
 | [video/the-last-fundraiser-production-bible.md](video/the-last-fundraiser-production-bible.md) | Full production bible for the 30-second AI commercial: direction, casting, costume, sets, cinematography, shot prompts, sound, edit |
 | [video/higgsfield-model-guide.md](video/higgsfield-model-guide.md) | Which Higgsfield models to use for each shot |
