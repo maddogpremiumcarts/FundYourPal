@@ -17,7 +17,7 @@ Audience research, voice guides and creative for [FundYourPal](https://www.fundy
 
 ## Rules for anything we publish
 
-- **Fee:** 10% total, card processing included, no monthly fee, donors can choose to cover it.
+- **Fee:** 10% platform fee plus standard card processing (Stripe). No setup or monthly fee. Donors can choose to cover both, so the team gets the full gift. Never say card processing is included.
 - **Volume break:** 10% on the first $25,000 raised each season, 7% above. *Placeholder tiers until confirmed.*
 - Never claim "lowest fees" — some competitors charge less. Win on kid pages, trust and money going straight to the team's bank.
 - Say "players," "athletes" or "kids," never "participants."

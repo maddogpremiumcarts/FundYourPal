@@ -148,7 +148,7 @@ Donors are happy to give to a kid they know, and annoyed at being made to buy th
 
 ## Competitive landscape and where you win
 
-You beat Snap! Raise and product sales on fees, but you are not the cheapest option, so don't fight on "lowest fee." Fight on **simple, all-in, money straight to you, built for every kid all season.**
+You beat Snap! Raise and product sales on fees, but you are not the cheapest option, so don't fight on "lowest fee." Fight on **simple, honest pricing, money straight to you, built for every kid all season.**
 
 | Option | Fee model (as published) | Their weakness | Your angle against it |
 | --- | --- | --- | --- |
@@ -164,11 +164,11 @@ You beat Snap! Raise and product sales on fees, but you are not the cheapest opt
 
 1. **Money goes straight into your own Stripe account.** FundYourPal never holds funds. In a year of booster-theft headlines and a lawsuit about hidden fees, this is your trust weapon.
 2. **5 minutes, self-serve, no sales call.** Most rivals push reps, demos or fixed campaigns.
-3. **One flat 10%, processing included, no monthly fee, donor can cover it.** Easy to explain to a board.
+3. **One flat 10% platform fee, no monthly fee, and donors can cover it plus card processing.** Easy to explain to a board.
 4. **A page for every kid, all season.** Goals, sponsors, schedule and scholarships in one place.
 5. **Private by default.** Parent and donor emails never shown publicly, which answers the contact-list worry.
 
-**Watch out:** at 10%, free and low-fee tools undercut you on price, so never claim "lowest fees." Lead with convenience and trust: kid pages, 5-minute setup, money straight to your account. Claim "honest, flat, all-in" instead.
+**Watch out:** at 10%, free and low-fee tools undercut you on price, so never claim "lowest fees." Lead with convenience and trust: kid pages, 5-minute setup, money straight to your account. Claim "honest, flat, and donors can cover it" instead.
 
 ## Voice of the customer: how they talk
 
@@ -198,12 +198,12 @@ Six angles cover the market. Test the first two hardest: "end the cookie dough" 
 | --- | --- | --- | --- | --- |
 | 1 | The cookie-dough breakup | Organizers, parents | Nothing to sell, store or deliver | "This season, nobody's freezer gets held hostage by cookie dough." |
 | 2 | Your money, your account | Organizers, treasurers | Donations land in your Stripe; we never hold a cent | "Where's the money? In your club's bank. Every dollar, every time." |
-| 3 | Keep more of what you raise | Organizers, boards | 10% flat, all-in, vs up to 20% elsewhere | "On a $10,000 season, that's up to $1,000 more for your kids." |
+| 3 | Keep more of what you raise | Organizers, boards | 10% platform fee (donors can cover it and card processing) vs up to 20% elsewhere | "On a $10,000 season, that's up to $1,000 more for your kids." |
 | 4 | Live by the weekend | Busy volunteers | Self-serve setup in 5 minutes, no sales call | "Set it up during halftime. Seriously." |
 | 5 | No kid sits out | Coaches, community donors | Scholarship and fee-assistance funds | "Dues went up 46%. Talent didn't. Make sure every kid still plays." |
 | 6 | Grandma's front-row seat | Parents, family donors | Kid's page with photo, story, goal and schedule | "Grandma can't make the tournament. She can still be on the team." |
 
-The math behind angle 3: 20% of $10,000 is $2,000, and 10% is $1,000. Keep the words "up to," since competitor fees vary by plan and campaign.
+The math behind angle 3: 20% of $10,000 is $2,000, and 10% is $1,000, before card processing. Keep the words "up to," since competitor fees vary by plan and campaign.
 
 ### Social posts (organizer-facing)
 
@@ -241,7 +241,7 @@ Most organizers already know online fundraising exists and have heard many "keep
 | --- | --- | --- | --- |
 | Hates fundraising, hasn't looked for a fix | "Fundraising is just misery we put up with" | The pain, then a story | "Raise your hand if you have cookie dough from last season still in your freezer." |
 | Knows online tools, hasn't picked one | "They're all the same, and they take a cut" | Your mechanism | "Most fundraising apps collect your money first. Ours never touches it." |
-| Using Snap! Raise or a rival | "It works, the fee just stings" | A comparison and the switch | "Same kid pages. Half the cut. Money straight to your bank." |
+| Using Snap! Raise or a rival | "It works, the fee just stings" | A comparison and the switch | "Same kid pages. A smaller cut. Money straight to your bank." |
 | Ready to start | "Is setup a pain?" | Speed and the call to action | "Your team can be live before Saturday's game." |
 
 ### Your unique mechanism: the Direct-to-Club model
@@ -283,14 +283,14 @@ Your first program is your best ad. Bartram Bears shows $6,525 raised from 151 d
 - "Your team's money goes to your team's bank. Not ours. Not ever."
 - "Grandma wants to help. Give her a link, not a catalog."
 - "Every kid gets a page. Every dollar gets a receipt."
-- "Half of Snap! Raise's cut. None of the reps."
+- "A 10% fee, not 20%. None of the reps."
 - "Set it up at halftime. Fund the season by the weekend."
 
-The "half the cut" headline only holds against Snap! Raise's 20% tier; keep the comparison specific and dated so it stays accurate.
+The "10%, not 20%" headline compares platform fees only. Card processing is extra with FundYourPal (donors can cover it), and other companies handle processing differently, so keep the comparison specific and dated.
 
 ### Future content rule
 
-Use 10% in every piece, describe it as one flat fee with card processing included and no monthly fee, and pair it with "donors can choose to cover it." If processing is not actually included at 10%, tell me and I'll change every line that says it is.
+Use 10% in every piece. Describe it as a 10% platform fee plus standard card processing, with no setup or monthly fee, and pair it with "donors can choose to cover both, so your team gets the full gift." Never say card processing is included.
 
 ## Objections and how to answer them
 
@@ -299,7 +299,7 @@ Most objections are about trust and effort, not price. Answer them on the homepa
 | Objection | Who raises it | Answer |
 | --- | --- | --- |
 | "Is this legit? I've never heard of you." | Organizer, donor | Money goes into your club's own Stripe account, not ours. Show the live program page and the donation feed. |
-| "Free platforms exist. Why pay 10%?" | Treasurer, board | 10% includes card processing, so there's no separate Stripe fee; donors can cover it; you get kid pages, roster import, sponsors and schedule built for teams. |
+| "Free platforms exist. Why pay 10%?" | Treasurer, board | 10% is the platform fee; standard card processing is extra, and donors can choose to cover both, so the team gets the full gift. You also get kid pages, roster import, sponsors and schedule built for teams. |
 | "We don't have a Stripe account." | Organizer | It's required; show a short how-to and the time it takes. Stripe setup is the most likely drop-off point in onboarding. |
 | "Parents won't share it." | Organizer | Give them a ready-made text and social script plus a QR poster. One share to family is enough to start. |
 | "Are donations tax-deductible?" | Donor | Only if your club is a qualifying nonprofit; FundYourPal itself is not a charity. Say this plainly. |

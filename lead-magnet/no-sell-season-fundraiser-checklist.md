@@ -145,6 +145,6 @@ No selling. No cash envelopes. No lost Saturdays.
 
 ## Want the setup done for you?
 
-FundYourPal sets up your whole team in about 5 minutes. Every player gets a page with a share link and QR code, there's room for sponsors and a scholarship fund, and donations go straight to your team's own bank account. One simple 10% fee that donors can choose to cover. No setup fee, no monthly fee, no contract, no pre-checked tips.
+FundYourPal sets up your whole team in about 5 minutes. Every player gets a page with a share link and QR code, there's room for sponsors and a scholarship fund, and donations go straight to your team's own bank account. One simple 10% fee plus standard card processing, and donors can choose to cover both so your team gets the full gift. No setup fee, no monthly fee, no contract, no pre-checked tips.
 
 **Start your team at fundyourpal.com/for-teams**
