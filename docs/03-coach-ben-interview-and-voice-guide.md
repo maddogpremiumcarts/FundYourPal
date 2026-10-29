@@ -79,9 +79,9 @@ Ben: "Donations land directly in your club's Stripe account." That's the line. A
 
 Ben: Fair. Half of what Snap! took. If grandparents cover the fee, we get the full gift and that's the end of the discussion. *Wait, you pay the card fees? I've been burned by "plus processing" before. That one I'd tell other coaches about*.
 
-**Q: Above $25,000 a season, the rate drops to 7%.**
+**Q: It's the same 10% for every team, whether you raise $5,000 or $50,000.**
 
-Ben: Now that I like. Usually it's the opposite: the more you raise, the more they take. Our board would notice that. Our rec league raises more than my travel team, so they'd care even more.
+Ben: Good. One number, no tiers to explain. Our board can repeat that in one sentence.
 
 **Q: What makes you skeptical?**
 
@@ -119,7 +119,7 @@ Ben's one number is **how much lands in our account**. Every piece of copy shoul
 | Three families do everything | Him and two moms, every year | Sell the relief of "parents share once, the page does the rest" |
 | Direct-to-account is the trust line | It's the first thing he noticed | Put it in the headline; it also answers "I've never heard of you" |
 | No surprise fees | He's been burned by "plus processing" | Always say "10% total. We even cover the card fees." |
-| The volume break surprised him | "Usually it's the opposite" | Lead with it for leagues and boosters |
+| One flat rate is easy to sell | "One number, no tiers to explain" | Say "10% for every team" every time |
 | Grandma needs *her* grandkid | GoFundMe had one page for the whole team | The per-kid page is a real difference; show a grandparent's view |
 | Stripe is the scary step | He doesn't know what Stripe is | Explain it as "the free payment account that sends donations straight to your team's bank"; publish a 3-minute walkthrough and an EIN checklist |
 | Social proof is thin | "One program? That's thin." | Feature the Bartram Bears coach on video; collect testimonials fast |
@@ -149,7 +149,7 @@ FundYourPal sounds like **the assistant coach who has run every fundraiser and w
 | Coaches and boosters | Directness, time savings, money in your account | Emotion | "Every player gets a page. Money goes straight to your team's bank. You're live tonight." |
 | Parents | Relief, dignity, no pressure | Numbers | "Share it once with family. That's your whole job." |
 | Grandparents and donors | Warmth, the kid's name, trust | Jargon | "Cheer on Maya this season. Every dollar goes to her team." |
-| Boards and treasurers | Records, fees, the volume break | Humor | "Every donation recorded. Rate drops to 7% above $25,000." |
+| Boards and treasurers | Records, fees, the covered card fees | Humor | "Every donation recorded. 10% total, card fees covered." |
 
 ### Ben's rules (non-negotiable)
 
@@ -231,7 +231,7 @@ Rewrites of lines from your current site and typical fundraising copy, run throu
 | "177 participant pages" | "177 player pages" | He hates "participants" |
 | "Maximize your team's fundraising potential with our seamless platform!" | "Hit your season goal without selling a single thing." | Outcome, no banned words |
 | "Donate now to support our athletes!" | "Give to Maya's season. Every dollar goes to her team." | Names the kid, adds trust |
-| "Volume discounts available for large organizations." | "Raise past $25,000 and your rate drops to 7%. The more you raise, the less you pay." | Turns the volume break into a promise |
+| "Processing fees may apply." | "10% total. That's right, we even cover the card fees." | Turns a hidden cost into a reason to choose us |
 | "Raise funds for scholarships and hardship assistance." | "Make sure no kid sits out over money. Quietly." | Mirrors how Ben actually helps families |
 
 ### A sample post in Ben's voice

@@ -20,7 +20,7 @@ Audience research, voice guides and creative for [FundYourPal](https://www.fundy
 ## Rules for anything we publish
 
 - **Fee:** 10% total. FundYourPal pays the Stripe card processing fees out of its 10%, so nothing is added on top. No setup or monthly fee. Donors can choose to cover the 10%, so the team gets 100%. Say it out loud: "We even cover the Stripe processing fees for your organization."
-- **Volume break:** 10% on the first $25,000 raised each season, 7% above. *Placeholder tiers until confirmed.*
+- **One rate:** 10% for every team, with no volume tiers. Don't advertise discounts; very large organizations are handled one on one.
 - Never claim "lowest fees" — some competitors charge less. Win on kid pages, trust and money going straight to the team's bank.
 - Say "players," "athletes" or "kids," never "participants."
 - Coach Ben and Denise are fictional. Don't present their stories as real customers.
@@ -28,4 +28,4 @@ Audience research, voice guides and creative for [FundYourPal](https://www.fundy
 
 ## Living versions
 
-These files were exported from editable docs on Oct 23, 2026. If the docs change, re-export and update the repo.
+These files were exported from editable docs; last synced Oct 28, 2026. If the docs change, re-export and update the repo.

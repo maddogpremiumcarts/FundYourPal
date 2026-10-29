@@ -22,7 +22,7 @@ About 80 words, a comfortable pace for 30 seconds. Closing the freezer at the en
 ## Why it's built this way
 
 - **Hook in the first 2 seconds.** A visual surprise (the stuffed freezer) plus a confession.
-- **One idea only.** Pain, fix, one ask. Fees, the volume break and scholarships each get their own video.
+- **One idea only.** Pain, fix, one ask. Fees, the covered card fees and scholarships each get their own video.
 - **Authority through a fix, not a pitch.** FundYourPal isn't named until the caption.
 - **Comment-keyword call to action.** If you won't use automated DM replies, swap it for "Link in bio for the 3-text script."
 

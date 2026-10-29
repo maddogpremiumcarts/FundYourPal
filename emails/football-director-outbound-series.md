@@ -10,24 +10,21 @@ These emails work because they come from a real director talking to peers, not f
 
 ### What changed from v1
 
-- The price is now **10% total**. FundYourPal pays the Stripe card processing fees, and donors can choose to cover the 10% so the team gets 100%.
-- Email 3 now leads with "we even cover the card fees," the strongest new reason to believe.
-- The P.S. lines and the cost reply use the new wording.
+- The price is **10% total for every team**, with no volume tiers. FundYourPal pays the Stripe card processing fees, and donors can choose to cover the 10% so the team gets 100%.
+- Email 3 leads with "we even cover the card fees," the strongest new reason to believe.
+- Your name, title, link, results and founder story are filled in, and the emails say "we" because you co-created FundYourPal.
 
-### Fill in the placeholders
+### What's still open
 
-| Placeholder | What to put there |
+| Item | What to do |
 | --- | --- |
-| \[First name\] | The recipient's first name |
-| \[Your name\] | Your name as you sign emails to other coaches |
-| \[Your team\] | Your program, for example Bartram Bears Football |
-| \[CHECKLIST LINK\] | The checklist landing page URL, with a tracking tag (see below) |
-| \[$ raised\] / \[# donations\] | Your team's real numbers from your live team page, on the day you send |
-| Lines marked *(confirm)* | Personal details only you know: keep them if true, change or cut them if not |
+| \[First name\] | Use your email tool's first-name merge tag, or type it by hand |
+| Email 4, lines marked *(confirm)* | Keep "A lot of us cover the gap out of our own pocket" if true, or change it to "A lot of coaches." Keep "This year we set up a private team fund" only if Bartram used one; otherwise change it to "You can set up a private team fund." |
+| Association name | Check the spelling: these emails use "Bartram Trails Athletic Association" |
 
 ### Say you're involved
 
-If you have any connection to FundYourPal beyond being a customer (you work on it, own part of it, or get paid for referrals), say so. Coaches trust you more for it, and endorsement rules require it. Email 1 has a one-line disclosure to keep or adjust.
+Done. Email 1 says plainly that you co-created FundYourPal with the parent of one of your athletes, and the replies section shows how to answer "Is this a sales pitch?" Being upfront builds trust with other coaches, and endorsement rules require it.
 
 ### Who to send to
 
@@ -48,7 +45,9 @@ Stick to people who know you or your program. Bulk cold email from a personal ac
 | 4. No kid sits out | Day 8 |
 | 5. Last note | Day 10 |
 
-Stop emailing anyone who opts in or replies; the checklist drip takes over from there. Tag each link: `[CHECKLIST LINK]?utm_source=football-director&utm_medium=email&utm_campaign=checklist&utm_content=email1` (change `email1` for each email).
+Stop emailing anyone who opts in or replies; the checklist drip takes over from there.
+
+Every link goes to `https://www.fundyourpal.com/checklist?src=dylan-email`. To see which email drives the most sign-ups, change the tag per email (`src=dylan-email-1` through `src=dylan-email-5`) if your system records the `src` value.
 
 ## Email 1: What we stopped doing this season
 
@@ -60,21 +59,21 @@ Stop emailing anyone who opts in or replies; the checklist drip takes over from 
 >
 > Quick note from one director to another.
 >
-> This season at \[Your team\], we stopped doing product fundraisers. No cookie dough. No car washes. No cash envelopes.
+> This season at Bartram Trails Athletic Association, we stopped doing product fundraisers. No cookie dough. No car washes. No cash envelopes.
 >
 > Our parents were already stretched with practices and games. Nobody wanted to give up another day washing cars or selling cookies.
 >
-> So we tried something simpler: every player got their own page, families shared it with relatives, and the money went straight into our team's account. We've raised \[$ raised\] from \[# donations\] donations so far, mostly grandparents and family. *(confirm)*
+> So we tried something simpler: every player got their own page, families shared it with relatives, and the money went straight into our team's account. We got a late start, and we still raised over $6,500 in about two weeks, mostly from grandparents and family.
 >
 > I wrote down everything we did as a one-page checklist. It's free, and you can steal all of it:
 >
-> &#91;**Get the No-Sell Season Fundraiser Checklist →**\](\[CHECKLIST LINK\])
+> [**Get the No-Sell Season Fundraiser Checklist →**](https://www.fundyourpal.com/checklist?src=dylan-email)
 >
 > Happy to answer questions if you're thinking about changing things up.
 >
-> &#91;Your name\] \[Your title\], \[Your team\]
+> Dylan Thomas Football Director, Bartram Trails Athletic Association
 >
-> P.S. Full disclosure: we use FundYourPal for this, and \[I'm involved with the company / I helped build it\]. The checklist works whatever tool you pick. *(confirm or cut)*
+> P.S. Full disclosure: I came up with FundYourPal together with the parent of one of our athletes. We were both looking for a better way to support our organization without taking more time away from our families. The checklist works whatever tool you pick.
 
 ## Email 2: The same three parents
 
@@ -88,15 +87,15 @@ Stop emailing anyone who opts in or replies; the checklist drip takes over from 
 >
 > They chase order forms, count cash, and give up weekends while everyone else means well but stays busy. Eventually they burn out, and then you've got nobody.
 >
-> What changed it for us: one setup, then each family shares their own player's page once. That's their whole job. *(confirm)* The work got spread across the whole roster instead of piling onto a few people.
+> What changed it for us: one setup, then every family shared their player's link with family, friends and neighbors, and some posted it on social media too. That was their whole job. The work got spread across the whole roster instead of piling onto a few people.
 >
 > The checklist shows exactly how, including the three texts families send to grandparents so nobody has to figure out what to say:
 >
-> &#91;**Download the free checklist →**\](\[CHECKLIST LINK\])
+> [**Download the free checklist →**](https://www.fundyourpal.com/checklist?src=dylan-email)
 >
 > If you've got a team mom or booster president who does it all, forward this to her. She'll thank you.
 >
-> &#91;Your name\] \[Your team\]
+> Dylan Thomas Football Director, Bartram Trails Athletic Association
 
 ## Email 3: The fee nobody tells you about
 
@@ -114,15 +113,13 @@ Stop emailing anyone who opts in or replies; the checklist drip takes over from 
 >
 > **3. Is anything pre-checked at checkout?** Tips and add-ons should be the donor's choice. Grandma shouldn't pay for a hoodie she didn't ask for.
 >
-> Here's why I'm such a stickler about number 2. With FundYourPal, the fee is 10% total. That's right: they even cover the Stripe processing fees for your organization. And if a donor chooses to cover the 10%, our team gets 100% of the gift.
->
-> I hadn't seen anyone else do that. *(confirm)*
+> Number 2 is why we built FundYourPal the way we did. The fee is 10% total. That's right: we even cover the Stripe processing fees for your organization. And if a donor chooses to cover the 10%, your team gets 100% of the gift.
 >
 > Those three questions are step 2 of the free checklist. The other seven steps cover goals, sponsors and making sure no kid sits out:
 >
-> &#91;**Get the free checklist →**\](\[CHECKLIST LINK\])
+> [**Get the free checklist →**](https://www.fundyourpal.com/checklist?src=dylan-email)
 >
-> &#91;Your name\] \[Your team\]
+> Dylan Thomas Football Director, Bartram Trails Athletic Association
 
 ## Email 4: No kid sits out
 
@@ -144,13 +141,13 @@ Stop emailing anyone who opts in or replies; the checklist drip takes over from 
 >
 > Step 6 of the checklist walks you through setting one up:
 >
-> &#91;**Get the free checklist →**\](\[CHECKLIST LINK\])
+> [**Get the free checklist →**](https://www.fundyourpal.com/checklist?src=dylan-email)
 >
 > Talent isn't the problem. Money is. Let's fix the part we can.
 >
-> &#91;Your name\] \[Your team\]
+> Dylan Thomas Football Director, Bartram Trails Athletic Association
 >
-> P.S. Grandparents and local businesses love giving to a "no kid sits out" fund. And when every dollar actually reaches the fund, with no card fees taken out, it's an easy ask.
+> P.S. Grandparents and local businesses love giving to a "no kid sits out" fund. And when no card fees come out of their gift, it's an easy ask.
 
 ## Email 5: Last note before the season
 
@@ -175,13 +172,13 @@ Stop emailing anyone who opts in or replies; the checklist drip takes over from 
 > - Put a QR poster on the fence
 > - Thank donors and show what they paid for
 >
-> &#91;**Download the checklist →**\](\[CHECKLIST LINK\])
+> [**Download the checklist →**](https://www.fundyourpal.com/checklist?src=dylan-email)
 >
 > If you want to talk through it, just reply. Glad to help another program skip the cookie dough.
 >
-> &#91;Your name\] \[Your team\]
+> Dylan Thomas Football Director, Bartram Trails Athletic Association
 >
-> P.S. If you'd rather skip ahead: FundYourPal sets up your whole team in about 5 minutes. 10% total, no monthly fee, and they even pay the card processing fees.
+> P.S. If you'd rather skip ahead: FundYourPal sets up your whole team in about 5 minutes. 10% total, no monthly fee, and we even pay the card processing fees.
 
 ## Replies and follow-up
 
@@ -190,19 +187,19 @@ Peer emails get replies, and a personal reply from you is worth more than any au
 | They say | You reply |
 | --- | --- |
 | "How did it actually go?" | Share your real numbers and one honest thing that surprised you, then link the checklist again. |
-| "What does it cost?" | "10% total. That's it. They even cover the Stripe card processing fees. Donors can choose to cover the 10%, so the team gets 100%. No setup fee, no monthly fee, no contract." |
-| "What's the catch with the card fees?" | "No catch I've found. The 10% is the whole cost, and FundYourPal pays the card processing out of it." |
+| "What does it cost?" | "10% total. That's it. We even cover the Stripe card processing fees. Donors can choose to cover the 10%, so the team gets 100%. No setup fee, no monthly fee, no contract." |
+| "What's the catch with the card fees?" | "No catch. The 10% is the whole cost, and we pay the card processing out of it. We built it that way on purpose." |
 | "We already do a product sale." | "Totally get it. Some teams run both for a season and compare what each one kept after costs and volunteer hours." |
-| "Is this a sales pitch?" | Be straight: say how you're connected to FundYourPal, and that the checklist works whatever tool they use. |
+| "Is this a sales pitch?" | Be straight: "Fair question. I co-created FundYourPal with one of our team parents, because we needed a better way ourselves. The checklist works whatever tool you use." |
 | "Our school requires a certain platform." | "Makes sense. The checklist still helps: the goal math, sponsor tiers and the 3-text ask work anywhere." |
 | "Can you talk to our booster board?" | Say yes. A 15-minute call from a fellow director closes more teams than any email. |
 | "Take me off your list." | Remove them right away with a one-line apology, and never email them again. |
 
 ### Before the first send
 
-- [ ] Checklist landing page and form are live, and the link works on a phone
-- [ ] Every *(confirm)* line is true or removed
-- [ ] The disclosure in email 1 matches your real connection to FundYourPal
-- [ ] &#91;$ raised\] and \[# donations\] match your live team page today
-- [ ] Your website, checkout and Terms all say the same thing: 10% total, FundYourPal pays card processing, donors can cover the 10%
+- [ ] The checklist page and form are finished, and the link works on a phone
+- [ ] Email 4's two *(confirm)* lines are true or changed
+- [ ] The association name is spelled the way you want it
+- [ ] Your website, checkout and Terms all say the same thing: 10% total for every team, FundYourPal pays card processing, donors can cover the 10%
+- [ ] Nothing is pre-checked at checkout (email 3 promises this)
 - [ ] Send email 1 to yourself first and read it on your phone

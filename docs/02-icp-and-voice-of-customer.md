@@ -101,7 +101,7 @@ Seven themes recur across parent forums, review sites and youth sports newslette
 | Embarrassment | "I find the fundraising embarrassing but I can't buy my way out of it." | [Berkeley Parents Network](https://www.berkeleyparentsnetwork.org/questions/awkward-situation-constantly-fundraising-family) | Share-kit copy that feels dignified |
 | Spam and surprise charges | A donor reported a surprise $55 add-on after a $35 gift and around 20 follow-up emails in three days | [Trustpilot](https://www.trustpilot.com/review/snapraise.com) | "No pre-checked add-ons. No spam." |
 | Contact harvesting | Kids pressed to hand over 20 family emails; parents wary of what happens to that data | [WCHS Insight](https://wchsinsight.org/24530/opinion/online-fundraisers-revolutionary-or-ripoff/) | "We never collect your family's contacts" |
-| Paying more for raising more | "The more you raise the more you pay for the same amount of work." | [Serchen](https://www.serchen.com/company/snap-raise) | The volume break (see pricing section) |
+| Paying more for raising more | "The more you raise the more you pay for the same amount of work." | [Serchen](https://www.serchen.com/company/snap-raise) | One flat 10%, no matter how much you raise |
 | Mandatory and unfair | One parent described a track team that wouldn't let kids compete until the online fundraising was done, and asked how single parents are meant to cope | [CA judicial ethics comments](https://www.judicialethicsopinions.ca.gov/wp-content/uploads/Posting-Document-v2-Public-Comments-on-CJEO-Formal-Opinion-2024-026-11.22.24.pdf) | "No quotas" positioning |
 
 ### The other side: donor resentment
@@ -138,7 +138,7 @@ This market has heard every "easy fundraiser" promise and is skeptical of all of
 | What they believe | True? | How to use it |
 | --- | --- | --- |
 | "All fundraising is a pain; it's just part of youth sports" | Mostly, today | Agree, then show the 5-minute version |
-| "Online fundraising companies take a huge cut" | True for some (up to 20%) | Show your 10% and the volume break in plain numbers |
+| "Online fundraising companies take a huge cut" | True for some (up to 20%) | Show your 10% total, card fees included, in plain numbers |
 | "These apps spam my family and sell our data" | Reviews back the fear | Promise and prove: no contact harvesting, no pre-checked add-ons |
 | "Cash and checks are free" | Not counting volunteer hours and risk | Count the hours; mention record-keeping for the treasurer |
 | "GoFundMe is fine for a team" | Works for one big ask | Show what it lacks: a page per kid, roster, sponsors, schedule |
@@ -149,7 +149,7 @@ This market has heard every "easy fundraiser" promise and is skeptical of all of
 
 They are past believing "raise money online" is new. Competitors already promise "keep more" (99Pledges, BoosterHub's BoosterBucks at 5% ([BoosterHub](https://www.boosterhub.com/blog/are-online-fundraisers-a-good-idea-for-our-booster-club)), TeamFi with zero fees ([GoRout](https://gorout.com/travel-softball-team-fundraising-ideas/))) and "no selling" (FlipGive, now owned by RaiseRight ([Wikipedia](https://en.wikipedia.org/wiki/FlipGive))). So generic claims die on arrival. You need a **mechanism with a name** (money straight into your club's bank) and **specific proof** (screenshots, real totals, real grandparents).
 
-**Important pricing note:** booster-focused BoosterBucks advertises 5% and TeamFi zero fees. At 10%, never imply you are the cheapest. Win on per-kid pages, donor trust and the volume break.
+**Important pricing note:** booster-focused BoosterBucks advertises 5% and TeamFi zero fees. At 10%, never imply you are the cheapest. Win on per-kid pages, donor trust and covering the card fees.
 
 ## Vocabulary: words to use and avoid
 
@@ -182,30 +182,29 @@ Talk like a team parent in the bleachers, not a nonprofit software company. The 
 
 Pain: exhausted, embarrassed, awkward, begging, spammed, scam, out of hand, second job, freezer full. Relief: finally, easy, done, proud, every kid, no pressure, just share it.
 
-## Pricing language: 10% and the volume break
+## Pricing language: 10% total, card fees covered
 
-The volume break answers a real complaint in this market: one reviewer griped that with percentage pricing, raising more means paying more for the same work. Flip that into your line: **"The more you raise, the less you pay."**
+Keep the price story simple: one rate for every team, big or small, with nothing added on top. Your line: **"10% total. That's it."**
 
-Working tiers (placeholders until you confirm them): **10% on the first $25,000 raised each season, 7% on everything above.** That's the total: FundYourPal pays the Stripe card processing fees, there's no monthly fee, and donors can choose to cover the fee so the team gets 100%.
+10% across the board, for every team and every dollar raised**.** That's the total: FundYourPal pays the Stripe card processing fees, there's no monthly fee, and donors can choose to cover the fee so the team gets 100%.
 
-| Season raised | FundYourPal fee | Effective rate | At a 20% platform |
-| --- | --- | --- | --- |
-| $5,000 | $500 | 10% | $1,000 |
-| $10,000 | $1,000 | 10% | $2,000 |
-| $25,000 | $2,500 | 10% | $5,000 |
-| $40,000 | $3,550 | 8.9% | $8,000 |
-| $75,000 | $6,000 | 8% | $15,000 |
+| Season raised | FundYourPal fee (card fees included) | At a 20% platform |
+| --- | --- | --- |
+| $5,000 | $500 | $1,000 |
+| $10,000 | $1,000 | $2,000 |
+| $25,000 | $2,500 | $5,000 |
+| $50,000 | $5,000 | $10,000 |
 
-Math: above $25,000, the fee is $2,500 plus 7% of the rest. For $40,000 that's $2,500 + $1,050 = $3,550. These are total costs; FundYourPal pays the card processing fees out of its share.
+These are total costs; FundYourPal pays the card processing fees out of its share.
 
 ### How to say it
 
 - **Small teams:** "10% total. We even pay the card fees. No monthly bill. Donors can cover our fee so you keep 100%."
-- **Big clubs and boosters:** "Raise past $25,000 and your rate drops to 7%. The more you raise, the less you pay."
-- **Against Snap! Raise:** "10%, not 20%, and it gets smaller as you grow."
-- **To a board:** "We pay nothing unless money comes in, they cover the card processing fees, and our rate falls as we grow."
+- **Big clubs and boosters:** "Same 10% for every team. Raising $50,000? Still 10%, and we still cover the card fees."
+- **Against Snap! Raise:** "10%, not 20%, and we pay the card fees."
+- **To a board:** "We pay nothing unless money comes in, they cover the card processing fees, and it's the same 10% no matter how much we raise."
 
-Don't name the tier in top-of-funnel ads; use it on pricing pages, comparison content and outreach to larger clubs.
+Don't advertise discounts. If a very large organization asks about pricing, handle it one on one.
 
 ### Say it out loud: we cover the card fees
 
@@ -227,7 +226,7 @@ Every line below uses the market's own words. Adapt names and sports to each ad.
 - "The no-sell fundraiser: nothing to buy, bake, deliver or count."
 - "We raised $20,000 for travel ball. Here's what we actually kept."
 - "If your fundraiser is still in someone's freezer, it didn't work."
-- "The more you raise, the less you pay. Finally."
+- "10% total. We even cover the card fees. Finally."
 
 ### Social hooks (parent)
 
@@ -242,7 +241,7 @@ Every line below uses the market's own words. Adapt names and sports to each ad.
 - Where your team's money goes (spoiler: your bank)
 - The 3-text script that gets grandparents to give
 - How 20 kids raise $5,000 without selling anything
-- Big club? Your rate just dropped
+- Yes, we even cover the card fees
 
 ### Trust lines (use everywhere)
 
@@ -260,7 +259,7 @@ Every line below uses the market's own words. Adapt names and sports to each ad.
 
 ## Before you publish, and how to confirm the phrases
 
-- [ ] Confirm the volume-break tiers (10% to $25,000, 7% above) and that FundYourPal pays all Stripe card processing fees
+- [ ] Confirm that FundYourPal pays all Stripe card processing fees
 - [ ] Confirm the trust lines are true for your product: no contact-list collection, no pre-checked add-ons, no selling data
 - [ ] Swap the $20,000 example hook for a real club's numbers
 - [ ] Check search volumes for the top 20 phrases in Google Keyword Planner or a free tool like AnswerThePublic
