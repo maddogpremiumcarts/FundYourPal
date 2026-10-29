@@ -95,7 +95,7 @@ team mom, team parent, booster board, the group chat, "the same three of us," vo
 
 ### Words to use
 
-middleman, cut, fee, "10% fee," donors can cover the card fees, no monthly bill, straight to your team's bank, every dollar recorded, treasurer, receipts, no surprise charges, no pre-checked add-ons, "the more you raise, the less you pay"
+middleman, cut, fee, "10% total," "we even cover the card fees", no monthly bill, straight to your team's bank, every dollar recorded, treasurer, receipts, no surprise charges, no pre-checked add-ons, "the more you raise, the less you pay"
 
 ### Post ideas
 
@@ -106,6 +106,16 @@ middleman, cut, fee, "10% fee," donors can cover the card fees, no monthly bill,
 | "Your treasurer deserves better than a shoebox of cash envelopes." | Short video | Direct-to-bank, every donation recorded |
 
 Stay factual when naming competitors: quote published fees, use "up to," and date the comparison. Let the math do the talking; never call a rival a scam.
+
+### New hook for this topic: we cover the card fees
+
+FundYourPal pays the Stripe card processing fees out of its 10%. Few platforms do, so it makes a strong surprise beat in posts about money.
+
+| Hook | Format | Fix you give |
+| --- | --- | --- |
+| "That's right, we even cover the Stripe processing fees for your organization." | Short talking-head video | 10% total, nothing added on top |
+| "Every fundraising app has 'plus processing' in the fine print. We don't." | Text post | Read the fine print; ask for the total |
+| "$100 donated. Here's exactly where it goes." | Carousel | Donor covers our 10%, we cover the card fee, the team gets $100 |
 
 ## Topic 4: No kid sits out
 
@@ -167,7 +177,7 @@ Keep this open while writing. If a word isn't on the left, ask whether a team pa
 | --- | --- | --- |
 | The job | fundraiser, raise money, cover the season, the trip fund | campaign, monetize, revenue, initiative |
 | The people | players, athletes, kids, dancers, team mom, team parent, coach, booster board, Grandma | participants, users, stakeholders, donors (in parent-facing posts) |
-| The money | 10% fee, donors can cover the card fees, no monthly bill, straight to your team's bank, the more you raise the less you pay | disbursement, platform fee structure, processing rate |
+| The money | 10% total, we even cover the card fees, no monthly bill, straight to your team's bank, the more you raise the less you pay | disbursement, platform fee structure, processing rate |
 | The feeling | finally, done, easy, proud, no pressure, no selling, relief | seamless, empower, revolutionize, game-changer |
 | Their world | travel ball, 12U, comp season, the bid, nationals, Cooperstown, Worlds, tournament fees, hotel block, the group chat | the program year, extracurricular engagement |
 | The enemy | cookie dough, order forms, cash envelopes, spam, surprise charges, the middleman | competitor names in a mocking way |
@@ -202,7 +212,7 @@ Five drafts, one per topic. Bracketed items need your real details.
 
 **3. Where the money goes (carousel)**
 
-> Slide 1: "We raised $\[amount\]. Here's what we actually kept." Slide 2: "3 questions before any app touches your team's money: Where does it land? What's the fee, total? Any add-ons at checkout?" Slide 3: "Our answers: your team's bank. A 10% fee plus card processing, and donors can cover both. No pre-checked add-ons." Slide 4: "Raise past $25,000? Your rate drops to 7%. The more you raise, the less you pay."
+> Slide 1: "We raised $\[amount\]. Here's what we actually kept." Slide 2: "3 questions before any app touches your team's money: Where does it land? What's the fee, total? Any add-ons at checkout?" Slide 3: "Our answers: your team's bank. 10% total, and we even pay the card processing fees. No pre-checked add-ons." Slide 4: "Raise past $25,000? Your rate drops to 7%. The more you raise, the less you pay."
 
 **4. No kid sits out (text post)**
 
@@ -230,7 +240,7 @@ Five drafts, one per topic. Bracketed items need your real details.
 ## Before you post
 
 - First-person stories (like the sixty tubs of dough) come from our fictional Coach Ben. Post them only in the voice of a real coach telling their own story, or reframe as "a coach told us..." once it's true.
-- Confirm "no pre-checked add-ons," "donors can cover the card fees" and the 7% tier match the product before using them.
+- Confirm "no pre-checked add-ons," "we cover the card fees" and the 7% tier match the product before using them.
 - Quotes in the quote bank are for your research and inspiration. If you put one in a post, keep it short, credit the source, and don't present it as a FundYourPal customer.
 
 ## Sources

@@ -30,7 +30,7 @@ About 80 words, a comfortable pace for 30 seconds. Closing the freezer at the en
 
 > If your fundraiser is still in someone's freezer, it didn't work. 🍪
 >
-> The no-sell way: every player gets their own page, families share it once, and donations go straight to your team's bank. With FundYourPal it's a 10% fee plus card processing, no monthly bill, and donors can choose to cover both.
+> The no-sell way: every player gets their own page, families share it once, and donations go straight to your team's bank. With FundYourPal it's 10% total, no monthly bill, and they even cover the card processing fees.
 >
 > Comment DOUGH for the 3 texts that get grandparents to give.
 >

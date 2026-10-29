@@ -186,7 +186,7 @@ Pain: exhausted, embarrassed, awkward, begging, spammed, scam, out of hand, seco
 
 The volume break answers a real complaint in this market: one reviewer griped that with percentage pricing, raising more means paying more for the same work. Flip that into your line: **"The more you raise, the less you pay."**
 
-Working tiers (placeholders until you confirm them): **10% on the first $25,000 raised each season, 7% on everything above.** Card processing is extra, there's no monthly fee, and donors can choose to cover both.
+Working tiers (placeholders until you confirm them): **10% on the first $25,000 raised each season, 7% on everything above.** That's the total: FundYourPal pays the Stripe card processing fees, there's no monthly fee, and donors can choose to cover the fee so the team gets 100%.
 
 | Season raised | FundYourPal fee | Effective rate | At a 20% platform |
 | --- | --- | --- | --- |
@@ -196,16 +196,25 @@ Working tiers (placeholders until you confirm them): **10% on the first $25,000 
 | $40,000 | $3,550 | 8.9% | $8,000 |
 | $75,000 | $6,000 | 8% | $15,000 |
 
-Math: above $25,000, the fee is $2,500 plus 7% of the rest. For $40,000 that's $2,500 + $1,050 = $3,550. These are platform fees only; card processing is added on top, and donors can cover it.
+Math: above $25,000, the fee is $2,500 plus 7% of the rest. For $40,000 that's $2,500 + $1,050 = $3,550. These are total costs; FundYourPal pays the card processing fees out of its share.
 
 ### How to say it
 
-- **Small teams:** "One flat 10% fee. No monthly bill. Donors can cover it, and the card fees too."
+- **Small teams:** "10% total. We even pay the card fees. No monthly bill. Donors can cover our fee so you keep 100%."
 - **Big clubs and boosters:** "Raise past $25,000 and your rate drops to 7%. The more you raise, the less you pay."
 - **Against Snap! Raise:** "10%, not 20%, and it gets smaller as you grow."
-- **To a board:** "We pay nothing unless money comes in, and our rate falls as we grow."
+- **To a board:** "We pay nothing unless money comes in, they cover the card processing fees, and our rate falls as we grow."
 
 Don't name the tier in top-of-funnel ads; use it on pricing pages, comparison content and outreach to larger clubs.
+
+### Say it out loud: we cover the card fees
+
+FundYourPal pays the Stripe processing fees out of its 10%, so the 10% is the whole cost. That answers the market's oldest complaint, fees added at the end, so name it every time you name the price.
+
+- **Headline line:** "That's right: we even cover the Stripe processing fees for your organization."
+- **Against "plus processing" platforms:** "Other platforms add card fees on top. We pay them."
+- **To donors:** "Cover our 10% if you'd like. We cover the card fees, so 100% reaches the team."
+- **On a pricing page:** "10% total. Card processing: $0 to you."
 
 ## Swipe file
 
@@ -251,7 +260,7 @@ Every line below uses the market's own words. Adapt names and sports to each ad.
 
 ## Before you publish, and how to confirm the phrases
 
-- [ ] Confirm the volume-break tiers (10% to $25,000, 7% above) and how card processing is shown to donors at checkout
+- [ ] Confirm the volume-break tiers (10% to $25,000, 7% above) and that FundYourPal pays all Stripe card processing fees
 - [ ] Confirm the trust lines are true for your product: no contact-list collection, no pre-checked add-ons, no selling data
 - [ ] Swap the $20,000 example hook for a real club's numbers
 - [ ] Check search volumes for the top 20 phrases in Google Keyword Planner or a free tool like AnswerThePublic
