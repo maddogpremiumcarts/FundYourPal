@@ -16,11 +16,7 @@ These emails work because they come from a real director talking to peers, not f
 
 ### What's still open
 
-| Item | What to do |
-| --- | --- |
-| \[First name\] | Use your email tool's first-name merge tag, or type it by hand |
-| Email 4, lines marked *(confirm)* | Keep "A lot of us cover the gap out of our own pocket" if true, or change it to "A lot of coaches." Keep "This year we set up a private team fund" only if Bartram used one; otherwise change it to "You can set up a private team fund." |
-| Association name | Check the spelling: these emails use "Bartram Trails Athletic Association" |
+Nothing. The copy is final. The only thing to set up is \[First name\]: use your email tool's first-name merge tag, or type it by hand.
 
 ### Say you're involved
 
@@ -59,7 +55,7 @@ Every link goes to `https://www.fundyourpal.com/checklist?src=dylan-email`. To s
 >
 > Quick note from one director to another.
 >
-> This season at Bartram Trails Athletic Association, we stopped doing product fundraisers. No cookie dough. No car washes. No cash envelopes.
+> This season at Bartram Trail Athletic Association (BTAA), we stopped doing product fundraisers. No cookie dough. No car washes. No cash envelopes.
 >
 > Our parents were already stretched with practices and games. Nobody wanted to give up another day washing cars or selling cookies.
 >
@@ -71,7 +67,7 @@ Every link goes to `https://www.fundyourpal.com/checklist?src=dylan-email`. To s
 >
 > Happy to answer questions if you're thinking about changing things up.
 >
-> Dylan Thomas Football Director, Bartram Trails Athletic Association
+> Dylan Thomas Football Director, Bartram Trail Athletic Association (BTAA)
 >
 > P.S. Full disclosure: I came up with FundYourPal together with the parent of one of our athletes. We were both looking for a better way to support our organization without taking more time away from our families. The checklist works whatever tool you pick.
 
@@ -95,7 +91,7 @@ Every link goes to `https://www.fundyourpal.com/checklist?src=dylan-email`. To s
 >
 > If you've got a team mom or booster president who does it all, forward this to her. She'll thank you.
 >
-> Dylan Thomas Football Director, Bartram Trails Athletic Association
+> Dylan Thomas Football Director, Bartram Trail Athletic Association (BTAA)
 
 ## Email 3: The fee nobody tells you about
 
@@ -119,7 +115,7 @@ Every link goes to `https://www.fundyourpal.com/checklist?src=dylan-email`. To s
 >
 > [**Get the free checklist →**](https://www.fundyourpal.com/checklist?src=dylan-email)
 >
-> Dylan Thomas Football Director, Bartram Trails Athletic Association
+> Dylan Thomas Football Director, Bartram Trail Athletic Association (BTAA)
 
 ## Email 4: No kid sits out
 
@@ -135,9 +131,9 @@ Every link goes to `https://www.fundyourpal.com/checklist?src=dylan-email`. To s
 >
 > It's getting worse. Families now spend about $1,016 a year on one child's main sport, up 46% since 2019, according to the Aspen Institute.
 >
-> A lot of us cover the gap out of our own pocket and don't tell anybody. *(confirm, or change to "A lot of coaches")*
+> A lot of us cover the gap out of our own pocket and don't tell anybody.
 >
-> This year we set up a private team fund instead. Donors give to the fund, no family ever gets named, and nobody has to ask for help in front of the team. *(confirm)*
+> This year we set up a private team fund instead. Donors give to the fund, no family ever gets named, and nobody has to ask for help in front of the team.
 >
 > Step 6 of the checklist walks you through setting one up:
 >
@@ -145,7 +141,7 @@ Every link goes to `https://www.fundyourpal.com/checklist?src=dylan-email`. To s
 >
 > Talent isn't the problem. Money is. Let's fix the part we can.
 >
-> Dylan Thomas Football Director, Bartram Trails Athletic Association
+> Dylan Thomas Football Director, Bartram Trail Athletic Association (BTAA)
 >
 > P.S. Grandparents and local businesses love giving to a "no kid sits out" fund. And when no card fees come out of their gift, it's an easy ask.
 
@@ -176,7 +172,7 @@ Every link goes to `https://www.fundyourpal.com/checklist?src=dylan-email`. To s
 >
 > If you want to talk through it, just reply. Glad to help another program skip the cookie dough.
 >
-> Dylan Thomas Football Director, Bartram Trails Athletic Association
+> Dylan Thomas Football Director, Bartram Trail Athletic Association (BTAA)
 >
 > P.S. If you'd rather skip ahead: FundYourPal sets up your whole team in about 5 minutes. 10% total, no monthly fee, and we even pay the card processing fees.
 
@@ -198,8 +194,6 @@ Peer emails get replies, and a personal reply from you is worth more than any au
 ### Before the first send
 
 - [ ] The checklist page and form are finished, and the link works on a phone
-- [ ] Email 4's two *(confirm)* lines are true or changed
-- [ ] The association name is spelled the way you want it
 - [ ] Your website, checkout and Terms all say the same thing: 10% total for every team, FundYourPal pays card processing, donors can cover the 10%
 - [ ] Nothing is pre-checked at checkout (email 3 promises this)
 - [ ] Send email 1 to yourself first and read it on your phone
